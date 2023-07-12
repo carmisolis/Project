@@ -1,0 +1,82 @@
+.text-color{
+
+    color: #8565c4;
+
+}
+
+.btn{
+
+    background-color: #8565c4;
+
+    border: 1px black;
+
+}
+
+.bg-color{
+
+    background-color: #8565c4;
+
+}
+
+.progress-bar{
+
+    background-color: #8565c4;
+
+}
+
+h1.text-hover:hover{
+
+    color: black;
+
+
+
+}
+
+a.btn{
+
+    color: white;
+
+}
+
+img{
+
+    height: 550px;
+
+}
+
+.nav-item{
+
+    font-size: 1.1remS;
+
+    font-weight: 500;
+
+    padding:  5px 0;
+
+    margin: 0 30px;
+
+    transition: all .50s ease;
+
+}
+
+.nav-item{
+
+    display: flex;
+
+}
+
+h1.contact{
+
+    font-size: 40px;
+
+    font-weight: bold;
+
+    text-align: center;
+
+}
+
+.social-icon{
+
+    text-align: center;
+
+}
+
